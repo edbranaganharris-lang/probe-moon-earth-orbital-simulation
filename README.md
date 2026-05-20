@@ -1,5 +1,5 @@
 # probe-moon-earth-orbital-simulation
-I created a simulation of an Earth-Moon-probe three-body system based off of Kepler and Newtons orbital mechanics equations. I then used SciPy's RK45 ODE solver to investigate orbital stability, energy conservation, and tolerance effects.
+I created a simulation of an Earth-Moon-probe three-body orbital system based off of classical mechanics. Systems of ordinary differential equations were solved to model the stable orbit of the Moon around the Earth and then a lunar orbiting probe, accounting for the changing gravitational force on the probe.
 
 Assignment and report were submitted as part of PHYS20035: Computational Physics and Data Science at the University of Bristol. Overall Grade for the module was 73%
 
